@@ -18,6 +18,14 @@ var map = AmCharts.makeChart("map-countries", {
                     "showAsSelected": true
                 },
                 {
+                    "id": "JP",
+                    "showAsSelected": true
+                },
+                {
+                    "id": "GR",
+                    "showAsSelected": true
+                },
+                {
                     "id": "LI",
                     "showAsSelected": true
                 },
