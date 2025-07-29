@@ -1,0 +1,9 @@
+@font-face {
+    font-family: font;
+    src: url('/fonts/Nunito-VariableFont_wght.ttf');
+}
+
+html {
+    font-family: font;
+}
+
